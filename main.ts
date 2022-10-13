@@ -1,6 +1,6 @@
 //Special thx to Comision B
 
-import { Animal } from "./clases/classAnimal";
+import { Animal } from "./clases/classAnimal"; 
 import { Araña } from "./clases/classAraña";
 import { Gato } from "./clases/classGato";
 import { Pez } from "./clases/classPez";
